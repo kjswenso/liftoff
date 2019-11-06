@@ -23,6 +23,7 @@ Everyone will be able to suggest the meals that they would like to eat that week
 ### Necessary To Learn
 
 * How to host a full web app
+* Bootstrap
 
 ### Project Tracker
 
